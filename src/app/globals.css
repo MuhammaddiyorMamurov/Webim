@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@layer base{
+    body{
+        @apply min-h-screen flex flex-col bg-purple-500
+    }
+}
+
+@layer utilities {
+    .container{
+        @apply mx-auto px-4 
+    }
+}
