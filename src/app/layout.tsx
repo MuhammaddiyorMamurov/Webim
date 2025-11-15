@@ -7,7 +7,7 @@ import { Suspense } from "react";
 import Loading from "./loading";
 
 export const metadata: Metadata = {
-  title: "Learning Next.js",
+  title: "Json Users",
   description: "Woow, that's so nice to learn Next.js",
 };
 

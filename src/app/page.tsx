@@ -1,10 +1,10 @@
-import Products from "../components/Products/Products"
+import Users from "../components/Users/Users"
 
 function Home() {
 
   return (
     <div>
-      <Products/>
+      <Users/>
     </div>
   )
 }
